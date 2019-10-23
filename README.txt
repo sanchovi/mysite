@@ -1,13 +1,11 @@
 
-This is mt website, a little one-pager that's easy for me to edit and easy for you to navigate.
+This is my website, a little one-pager that's easy for me to edit and easy for you to navigate.
 
-Demo courtesy of Unsplash, a cool collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
+Placeholder images courtesy of Unsplash, a collection of CC0 (public domain) images.
 
 Credits:
 
-	Demo Images:
+	Placeholder Images:
 		Unsplash (unsplash.com)
 
 	Icons:
